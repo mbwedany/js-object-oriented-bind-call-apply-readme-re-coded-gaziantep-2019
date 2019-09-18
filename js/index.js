@@ -1,11 +1,11 @@
-class Event {
+class Event{
     constructor(title, keywords) {
         this.title = title;
         this.keywords = keywords;
     }
 }
 
-class User {
+class User{
     constructor(name, interests) {
         this.name = name;
         this.interests = interests;
